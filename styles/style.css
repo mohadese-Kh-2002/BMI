@@ -1,0 +1,24 @@
+@import url('./reset.css');
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+}
+
+body{
+    font-size: 1.6rem;
+}
+
+.BMI__title{
+    font-size: 2.5rem;
+}
+
+.input__range{
+width: 25rem;
+}
+
+.BMI__results{
+    font-size: 1.8rem;
+   
+}
